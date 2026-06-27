@@ -32,6 +32,8 @@ console.log(arr)
 
 
 
+
+
 // let a="";
 // for(let i=0 ; i<dotOccurance[0] ; i++){
 //   a += complexThing[i];
